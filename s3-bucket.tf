@@ -4,9 +4,9 @@ provider "aws" {
 
 resource "aws_s3_bucket" "myterraform" {
     bucket = "myunique-buxket"
-}
 
 tags = {
     ENV = "Dev"
     Owner = "Omkar"
+}
 }

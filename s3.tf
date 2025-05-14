@@ -3,7 +3,7 @@ provider "aws" {
   }
 
 resource "aws_s3_bucket" "my-specical-2134" {
-    bucket = "123-newbucket"
+    bucket = "your-unique-bucket-name-20250514-prathamesh"
 
 tags = {
     ENV = "Dev"

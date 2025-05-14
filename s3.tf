@@ -3,7 +3,7 @@ provider "aws" {
   }
 
 resource "aws_s3_bucket" "myterraform" {
-    bucket = "myunique-buxket"
+    bucket = "123-newbucket"
 
 tags = {
     ENV = "Dev"

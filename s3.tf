@@ -10,5 +10,3 @@ tags = {
     Owner = "Omkar"
 }
 }
-jkgaukdgiklgifuwd
-klgjdiluag
